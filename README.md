@@ -21,7 +21,7 @@ render() {
 ````
 
 
-1. Simplest without `href` but `URL` insdie text (default blue hyperlink)
+1. Simplest usage without `href` but `URL` insdie text (default blue hyperlink)<br/>
 `<A>Example.com</A>`
 
 2. With `href`:
