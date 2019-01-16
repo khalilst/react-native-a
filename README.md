@@ -24,14 +24,13 @@ render() {
 1. Simplest usage without `href` but `URL` insdie text (default blue hyperlink)<br/>
 `<A>Example.com</A>`
 
-2. With `href`:
-
+2. With `href`:<br/>
 `<A class="example.com">Example</A>`<br/>
 `<A class="http://example.com">Example.com</A>`<br/>
 `<A class="https://example.com">Example</A>`<br/>
 
-3. With `style`:
-`<A style={{fontWeight: 'bold'}}>Example.com</A>`<br/>
+3. With `style`:<br/>
+`<A style={{fontWeight: 'bold'}}>Example.com</A>`
 
 ##
 
