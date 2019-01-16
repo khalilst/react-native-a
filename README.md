@@ -21,13 +21,13 @@ render() {
 ````
 
 
-1. Simplest usage without `href` but `URL` insdie text (default blue hyperlink)<br/>
+1. Simplest usage without `href` but `URL` inside text (default blue hyperlink)<br/>
 `<A>Example.com</A>`
 
 2. With `href`:<br/>
-`<A class="example.com">Example</A>`<br/>
-`<A class="http://example.com">Example.com</A>`<br/>
-`<A class="https://example.com">Example</A>`<br/>
+`<A href="example.com">Example</A>`<br/>
+`<A href="http://example.com">Example.com</A>`<br/>
+`<A href="https://example.com">Example</A>`<br/>
 
 3. With `style`:<br/>
 `<A style={{fontWeight: 'bold'}}>Example.com</A>`
