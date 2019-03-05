@@ -1,0 +1,24 @@
+{
+  "name": "react-native-a",
+  "version": "1.0.1",
+  "description": "Hyperlink Component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalilst/react-native-a.git"
+  },
+  "keywords": [
+    "hyperlink",
+    "react",
+    "native"
+  ],
+  "author": "Khalil Laleh @ Softek.ir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalilst/react-native-a/issues"
+  },
+  "homepage": "https://github.com/khalilst/react-native-a#readme"
+}
